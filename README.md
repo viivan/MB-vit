@@ -11,11 +11,11 @@ MB-ViT model  was implemented on a desktop computer with the following specifica
 - Pandas 1.1.0
 - Scipy 1.7.3
 - torchvision 0.10.0
-- torch 1.9.0 
+- torch 1.9.0
 - matplotlib 3.7.1
 - collections 0.1.1
 ## Datasets
 - **[CWRU Bearing Dataset](https://csegroups.case.edu/bearingdatacenter/pages/download-data-file/)**
 
 ## Contact
--  yaocarry@163.com
+- yaocarry@163.com

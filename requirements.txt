@@ -1,0 +1,7 @@
+numpy 
+pandas 
+scipy 
+torchvision 
+torch 
+matplotlib 
+collections 
